@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/advanced-todo-app/static/js/main.6184c22b.js",
+    "main.js": "/advanced-todo-app/static/js/main.ead7b4ce.js",
     "index.html": "/advanced-todo-app/index.html",
-    "main.6184c22b.js.map": "/advanced-todo-app/static/js/main.6184c22b.js.map"
+    "main.ead7b4ce.js.map": "/advanced-todo-app/static/js/main.ead7b4ce.js.map"
   },
   "entrypoints": [
-    "static/js/main.6184c22b.js"
+    "static/js/main.ead7b4ce.js"
   ]
 }
